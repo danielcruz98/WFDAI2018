@@ -1,4 +1,4 @@
-const port = 8080;
+const port = 80;
 const ejs = require('ejs');
 const express = require('express');
 const mysql = require('mysql');
